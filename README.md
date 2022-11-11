@@ -23,11 +23,11 @@
 # 👨‍🎓 O que aprendi
 
 - Configuração de multiplas extensões úteis par ao Vscode
-- Linguagem HTML e suas propiedades
+- Linguagem HTML e suas propriedades
 - Uso e manuseio de informações extraidas do Figma
 - Linguagem CSS e suas propiedades
 - Transição, animação e responsividade com CSS
-- Linguagem de programação JavaScript e suas propiedades
+- Linguagem de programação JavaScript e suas propriedades
 - Refatoração com JS
 - Git e Github
 
